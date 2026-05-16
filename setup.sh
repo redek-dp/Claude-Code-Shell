@@ -4,6 +4,8 @@ set -e
 echo "🚀 Iniciando Ollama..."
 
 echo "⏳ Aguardando Ollama iniciar..."
-sleep 20
+sleep 10
 
 echo "✅ Tudo pronto! Acesse: http://localhost:0000"
+
+done
